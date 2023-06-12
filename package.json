@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "collapse": "^1.0.1",
+    "ngx-bootstrap": "^7.1.2"
+  }
+}
